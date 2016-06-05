@@ -1,2 +1,7 @@
-seurl: /jekyll_demo
-
+baseurl: /
+name: Fly
+markdown: redcarpet
+pygments: true
+title: Title
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
