@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /document
 name: Fly
 markdown: redcarpet
 pygments: true
